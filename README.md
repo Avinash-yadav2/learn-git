@@ -1,4 +1,4 @@
 # learn-git
 learn my first git repository
 <br>
-Aurthor Avinash
+Aurthor Avinash(Sonu)
